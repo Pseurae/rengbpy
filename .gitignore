@@ -1,0 +1,13 @@
+.vscode
+libgbemu/build-*
+
+renpy-project/log.txt
+renpy-project/traceback.txt
+
+renpy-project/game/saves
+renpy-project/game/cache
+.D[Ss]_[Ss]tore
+
+renpy-project/game/**.rpyc
+renpy-project/game/**.rpymc
+renpy-project/game/**.rpyb
